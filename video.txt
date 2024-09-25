@@ -1,0 +1,21 @@
+
+VIDEO DESDE PROYECTO CARRITO DE COMPRAS: https://youtu.be/ladwC6Lrs-M?t=23781
+
+1. creamos primeramente el proyecto: npm create vite
+2. eliminamos app.jsx, los estilos originales, el icon original y dejamos solamente el "main.jsx"
+3. luego creamos Carrito.jsx
+4. vamos al github de sergiecode: https://github.com/sergiecode/base-estilos-carrito-react
+5. copiamos los dos archivos: card.css y lista.css
+6. modificamos index.html y cambiamos de icono poniendo el favicon.icon
+7. modificamos main.jsx para llamar a CarritoApp.jsx
+8. probamos a ver si funciona
+9. vamos a agregar bootstrap a index.html
+10. Ahora instalamos el react-router-dom
+11. luego instalamos reactUI desde https://mui.com/material-ui/getting-started/installation/
+    (npm install @mui/material @emotion/react @emotion/styled)
+12. tambiél icon con npm install @mui/icons-material
+13. colocamos el ICON de carrito en el navbar que traemos de https://mui.com/material-ui/react-badge/
+14. npm i react-icons
+15. se puede usar fake store: https://fakestoreapi.com/docs
+
+https://youtu.be/ladwC6Lrs-M?t=24795

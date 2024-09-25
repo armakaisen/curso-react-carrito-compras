@@ -1,0 +1,7 @@
+.thead-dark {
+    th {
+        color: rgb(32, 155, 124);
+        background-color: black;
+        border-color: black;
+    }
+}
